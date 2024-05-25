@@ -1,0 +1,5 @@
+/* Assuming you have installed and configured Tailwind CSS correctly */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
