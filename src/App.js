@@ -65,8 +65,8 @@ function App() {
     <>
       <Provider store={store}>
         <div className="">
-          {/* <Header/> */}
-          {/* <Body/> */}
+          <Header />
+          <Body />
           {/* <Footer/>       */}{" "}
           {/* if i uncomment this the footer will show on main page  */}
           <RouterProvider router={appRouter} />
